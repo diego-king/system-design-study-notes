@@ -1,2 +1,2 @@
 # System Design for tech interview study notes
-Study notes for system design for tech interview
+1. Knowledge points: the important concepts may meet in system design tech interview.
